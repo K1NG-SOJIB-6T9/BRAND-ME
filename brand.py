@@ -105,7 +105,7 @@ class Main:
         print(" [00] Exit")
         print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         SOJIB =input(" [?] Choose : ")
-        os.system('xdg-open https://www.facebook.com/profile.php?id=100074200236579)
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100074200236579')
         if SOJIB in ["1", "01"]:
             num()
         if SOJIB in ["2","02"]:
